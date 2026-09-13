@@ -1,0 +1,6 @@
+{
+  "name": "Kisaan2Karidhar",
+  "description": "Direct agricultural marketplace connecting farmers, FPOs, customers, bulk buyers, and logistics providers with real-time orders, route optimization, and demand forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
